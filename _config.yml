@@ -1,15 +1,16 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              南里北辞
+bio:                '靡不有初，鲜克有终'
+description:        "既生而有翼
+                  为何竟愿一生匍匐
+                     形如虫蚁"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
-
+url:                https://github.com/nanbei-uestc/nanbei
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -37,10 +38,8 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+#email
+github-url:         https://github.com/nanbei-uestc/nanbei
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
